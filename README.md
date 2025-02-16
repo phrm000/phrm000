@@ -26,7 +26,7 @@
   <a href="http://linkedin.com/moraiswi" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <a target="_blank" href="mailto:leo.meireles01@gmail.com">
+  <a target="_blank" href="mailto:phrm000@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" style="margin: 0 0 -5px 0"/>
   </a>
 </div>

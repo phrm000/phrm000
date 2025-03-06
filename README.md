@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <a href="http://linkedin.com/moraiswithani" target="_blank">
+  <a href="https://www.linkedin.com/in/moraiswithani/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <a target="_blank" href="mailto:phrm000@gmail.com">
